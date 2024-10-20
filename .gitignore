@@ -1,9 +1,11 @@
 ### Altium ###
 # Previews Folders
+__Previews/
 **/__Previews/
 
 # History Folders
-**/History/*
+History/
+**/History/
 
 # Project Logs
 Project Logs*/
@@ -20,15 +22,12 @@ Project Outputs*/
 # Document Local Metadata
 *.metadata
 
-# Project hierarchy auto-generated file
-*.PrjPcbStructure
-
-History/
-*/History/
+# Miscellaneous temporary or system files
 *.~*
-__Previews/
+
+# SchDoc Previews
 *.SchDocPreview
+
+# Ignore common text and HTML files
 *.txt
 *.html
-Project Logs for bionik_wstep/
-Project Outputs for bionik_wstep/
