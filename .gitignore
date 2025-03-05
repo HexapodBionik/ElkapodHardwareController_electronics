@@ -1,33 +1,12 @@
-### Altium ###
-# Previews Folders
-__Previews/
-**/__Previews/
-
-# History Folders
 History/
-**/History/
-
-# Project Logs
-Project Logs*/
-
-# Project Outputs
-Project Outputs*/
-
-# Auto-conversion notices
-*.PcbDoc.htm
-
-# Access lock file for dbLib sources
-**/*.ldb
-
-# Document Local Metadata
-*.metadata
-
-# Miscellaneous temporary or system files
+*/History/
 *.~*
-
-# SchDoc Previews
+__Previews/
 *.SchDocPreview
-
-# Ignore common text and HTML files
 *.txt
 *.html
+*.xlsx
+*.zip
+
+**/Project Logs for*/
+**/Project Outputs for*/
