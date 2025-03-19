@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Strona-1" id="bYN3_mFan0DTA3vLIM4z">
+    <mxGraphModel dx="394" dy="201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-2" value="SWD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-3" value="SWDIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="310" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3V3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-5" value="SWCLK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-6" value="--" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-7" value="NRST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="310" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itm-o-3ix_AQmBaq_FAt-8" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GND&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
